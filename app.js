@@ -1,4 +1,3 @@
-
 var map = L.map('map').setView([52.186, 21.571], 7);
 
 map.dragging.disable()
